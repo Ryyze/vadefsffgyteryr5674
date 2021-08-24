@@ -1,0 +1,49 @@
+{
+  "name": "ryhno-bot",
+  "version": "1.0.0",
+  "description": "Rhyno Bot Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MentuxS/ryhno-bot.git"
+  },
+  "keywords": [
+    "github"
+  ],
+  "author": "MentuxS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MentuxS/ryhno-bot/issues"
+  },
+  "homepage": "https://github.com/MentuxS/ryhno-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.27.0",
+    "path": "^0.12.7",
+    "quick.db": "^7.1.1",
+    "quickmongo": "^1.0.9",
+    "util": "^0.12.3",
+    "parse-ms": "^2.1.0",
+    "canvas": "^2.6.1",
+    "novelcovid": "^3.0.0",
+    "fortnite": "^4.3.2",
+    "snekfetch": "^4.0.4",
+    "whatwg-fetch": "^3.4.0",
+    "common-tags": "^1.8.0",
+    "moment-duration-format": "^2.3.2",
+    "discord-anti-spam": "^2.4.1",
+    "mongoose": "^5.9.9",
+    "canvas-constructor": "^3.2.0",
+    "to-time": "^1.0.2",
+    "ms": "^2.1.2",
+    "enmap": "^5.7.3",
+    "countdown": "^2.6.0"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
